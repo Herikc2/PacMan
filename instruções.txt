@@ -1,0 +1,5 @@
+O jogo incluso no arquivo possui duas versões, uma com tamanho reduzido e outra com tamanho aumentado.
+Sendo a versão de 20x20 para monitores menores e a de 37x37 para monitores maiores. 
+Siga as intruções a seguir para mudar o tamanho:
+1 -> Substitua o arquivo da pasta raiz, pelas duas imagens da pasta 20x20 ou 37x37.
+2 -> Faça as alterações de acordo com os comentários no código.
